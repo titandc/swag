@@ -10,7 +10,7 @@ import (
 	"github.com/titandc/swag/example/celler/httputil"
 
 	swaggerFiles "github.com/swaggo/files"
-	ginSwagger "github.com/swaggo/gin-swagger"
+	ginSwagger "github.com/titandc/gin-swagger"
 )
 
 // @title Swagger Example API
