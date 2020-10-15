@@ -78,7 +78,10 @@ github.com/swaggo/files v0.0.0-20190704085106-630677cd5c14 h1:PyYN9JH5jY9j6av01S
 github.com/swaggo/files v0.0.0-20190704085106-630677cd5c14/go.mod h1:gxQT6pBGRuIGunNf/+tSOB5OHvguWi8Tbt82WOkf35E=
 github.com/titandc/gin-swagger v1.2.3 h1:kNuP81VxmhvuZyxd4C3Jw3tiIvX0AbjU51TfnDfw6w8=
 github.com/titandc/gin-swagger v1.2.3/go.mod h1:1sn1NOwMDTjQFFdAusweHbWqjIxk0W1Zv3RN/vnxVyY=
+github.com/titandc/gin-swagger v1.2.4 h1:Q5gzEvc/R9nK9BoGdpNwSVlAPwQ2JxdcuhOzg/fDOKE=
+github.com/titandc/gin-swagger v1.2.4/go.mod h1:FxwqQPt47X1qDnHhjBY9XGobAQG8WWST5dDxNmLc6xQ=
 github.com/titandc/swag v1.7.1/go.mod h1:3SJ6e6O6zxuStwiGAbqIL6d9G3SXuhvYQJ9Wc68wjSU=
+github.com/titandc/swag v1.7.2/go.mod h1:3SJ6e6O6zxuStwiGAbqIL6d9G3SXuhvYQJ9Wc68wjSU=
 github.com/ugorji/go v1.1.7 h1:/68gy2h+1mWMrwZFeD1kQialdSzAb432dtpeJ42ovdo=
 github.com/ugorji/go v1.1.7/go.mod h1:kZn38zHttfInRq0xu/PH0az30d+z6vm202qpg1oXVMw=
 github.com/ugorji/go/codec v0.0.0-20181022190402-e5e69e061d4f/go.mod h1:VFNgLljTbGfSG7qAOspJ7OScBnGdDN/yBr0sguwnwf0=
